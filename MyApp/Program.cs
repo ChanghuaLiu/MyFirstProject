@@ -1,4 +1,4 @@
-﻿//decimal, int, string, char
+﻿//decimal, int, string, char float
 
 using MyApp;
 
